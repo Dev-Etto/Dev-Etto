@@ -13,7 +13,7 @@ E com isso quero dizer front, back e também o mobile.
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,kotlin,go)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,sequelize,prisma,nest,spring)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=react,next,redux,docker)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,5 +22,5 @@ E com isso quero dizer front, back e também o mobile.
 ### Socials
 <div> 
   <a href="https://www.instagram.com/joao.eto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaonetodev-code/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/dev-etto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
