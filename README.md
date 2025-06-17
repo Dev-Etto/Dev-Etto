@@ -1,6 +1,6 @@
 Olá! eu sou Neto 👋
 ========================================================================================================================================
-🌍 Desenvolvedor Back End | 🎓 Estudante de Desenvolvimento Web | 🚀 1 Ano de Jornada
+🌍 Desenvolvedor Back End | 🎓 Estudante de Desenvolvimento Web | 🚀 2 Ano de Jornada
 
 Bem-vindo ao meu repositório! Aqui, compartilho minha jornada de aprendizado no mundo do desenvolvimento web.
 
