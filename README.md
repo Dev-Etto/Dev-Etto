@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack com foco principal em Back-End, especializado na construção de soluções robustas e escaláveis.
 
-Minha experiência se concentra em Java (Spring Boot) e TypeScript (Node.js, Fastify) para a arquitetura de microsserviços e APIs REST/GraphQL. Também atuo no front-end com React e Next.js.
+Minha experiência se concentra em Java (Spring Boot) e TypeScript (Node.js, Fastify, Nest) para a arquitetura de microsserviços e APIs REST/GraphQL. Também atuo no front-end com React e Next.js.
 
 Priorizo arquitetura limpa, código testável e performance, com experiência prática em ecossistemas Cloud (AWS/GCP), Docker e pipelines de CI/CD.
 <br/>
