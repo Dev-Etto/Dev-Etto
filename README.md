@@ -1,12 +1,11 @@
-Olá! eu sou Neto 👋
-========================================================================================================================================
-🌍 Desenvolvedor Back End | 🎓 Estudante de Desenvolvimento Web | 🚀 2 Ano de Jornada
+### Olá, pode me chamar de Neto 👋
 
-Bem-vindo ao meu repositório! Aqui, compartilho minha jornada de aprendizado no mundo do desenvolvimento web.
+**Desenvolvedor Full Stack** com foco principal em **Back-End**, especializado na construção de soluções robustas e escaláveis.
 
-Meu sonho? quero ser um desenvolvedor acima da média e meu plano inicial e ser um full stack development.
+Minha experiência se concentra em **Java (Spring Boot)** e **TypeScript (Node.js, Fastify)** para a arquitetura de microsserviços e APIs REST/GraphQL. Também atuo no front-end com **React e Next.js**.
 
-E com isso quero dizer front, back e também o mobile.
+Priorizo arquitetura limpa, código testável e performance, com experiência prática em ecossistemas Cloud (AWS/GCP), Docker e pipelines de CI/CD.
+
 
 <br/>
 
