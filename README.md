@@ -27,7 +27,7 @@ I thrive in high-ownership environments where engineering decisions have direct 
   <a href="mailto:contato.devetto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.npmjs.com/package/surge-kit" target="_blank">
+  <a href="https://www.npmjs.com/~dev-etto" target="_blank">
     <img src="https://img.shields.io/badge/-npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
   </a>
 </div>
