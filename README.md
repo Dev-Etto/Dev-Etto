@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Software Engineer** with 3+ years of experience building complex, data-driven platforms from backend architecture to production-ready frontends.
 
-Currently the **sole developer at [Portüs Digital](https://www.linkedin.com/in/dev-etto/)**, where I hold end-to-end ownership of the product — designing REST APIs with Node.js and Fastify, building interfaces with React and Next.js, and deploying containerized services on GCP with Docker.
+Currently the **sole developer at [Portüs Digital](https://portusdigital.com.br/)**, where I hold end-to-end ownership of the product — designing REST APIs with Node.js and Fastify, building interfaces with React and Next.js, and deploying containerized services on GCP with Docker.
 
 I engineered the platform's core **intelligent matching system**, calculating candidate-to-job compatibility scores across **30,000+ profiles in under 100ms** per 10,000 records.
 
