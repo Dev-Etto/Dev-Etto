@@ -14,18 +14,12 @@ I thrive in high-ownership environments where engineering decisions have direct 
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,py)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,spring,prisma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,spring,prisma)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql,rabbitmq)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql,rabbitmq)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker,github,linux)](https://skillicons.dev)
 
 <br/>
-
 ### 📬 Connect with me
-
 <div>
   <a href="https://www.linkedin.com/in/dev-etto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
